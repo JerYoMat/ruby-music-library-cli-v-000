@@ -74,6 +74,8 @@ def list_songs_by_genre
     end
  end
  
-
+  def play_song 
+    
+  end 
 
 end 
