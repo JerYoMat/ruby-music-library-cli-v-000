@@ -50,7 +50,6 @@ class MusicLibraryController
   end 
 
 
-<<<<<<< HEAD
  def list_songs_by_artist
     puts "Please enter the name of an artist:"
     input = gets.strip
@@ -74,12 +73,11 @@ def list_songs_by_genre
     end
  end
  
-=======
   def list_songs_by_artist 
     artist_name = gets.strip 
     
   end 
   
 
->>>>>>> de1825e1caea16bff1feffb57bcd844b04e96731
+
 end 
